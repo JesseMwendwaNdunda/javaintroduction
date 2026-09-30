@@ -51,4 +51,4 @@ System.out.println("Width: " + rect.getWidth());
 System.out.println("Area: " + rect.getArea());
 System.out.println("Perimeter: " + rect.getPerimeter());
 }
-}
+}  
