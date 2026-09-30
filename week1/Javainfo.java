@@ -1,3 +1,4 @@
+package week1;
 // This program prints information about the Java runtime.
 public class Javainfo {
 public static void main(String[] args) {

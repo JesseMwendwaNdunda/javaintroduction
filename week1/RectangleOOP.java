@@ -1,3 +1,4 @@
+package week1;
 // Object-oriented approach: data and methods are bundled together in a class.
 public class RectangleOOP {
 

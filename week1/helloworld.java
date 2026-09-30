@@ -1,3 +1,4 @@
+package week1;
 /**
 * My first Java program
 * @author Your Name
