@@ -29,5 +29,7 @@ System.out.println("Using ternary: " + eligibilityTernary);
 int number = 7;
 String evenOdd = (number % 2 == 0) ? "Even" : "Odd";
 System.out.println(number + " is " + evenOdd);
+boolean result = (5 > 3) && (4 < 2) || (10 == 10);
+System.out.println(result);
 }
 }
