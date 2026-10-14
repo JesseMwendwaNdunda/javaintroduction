@@ -71,7 +71,7 @@ System.out.println("Too high! Try again.\n");
 // If neither too low nor too high, the guess must be correct.
 else {
 System.out.println("\n Congratulations! You guessed it!");
-System.out.println("The number was: " + secretNumber);
+System.out.println("The number is " + secretNumber);
 System.out.println("You took " + attempts + " attempt(s).");
 }
 }
