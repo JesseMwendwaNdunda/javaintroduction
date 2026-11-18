@@ -1,8 +1,8 @@
 # My Java Course
 
 ## About Me
-- Name: [Your Name]
-- University: [Your University]
+- Name: JESSE MWENDWA NDUNDA
+- University: RIARA UNIVERSITY
 - Course: Object-Oriented Programming
 
 ## What I'm Learning
